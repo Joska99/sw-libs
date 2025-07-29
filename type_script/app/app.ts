@@ -1,2 +1,2 @@
-import {sayHello} from 'hwrld'
+import {sayHello} from 'hwrld-joska-test'
 sayHello();

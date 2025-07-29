@@ -1,5 +1,5 @@
 {
-  "name": "hwrld",
+  "name": "hwrld-joska-test",
   "version": "1.0.0",
   "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
   "main": "dist/index.js",
