@@ -1,4 +1,5 @@
 - This creates:
+```swift
 hello-lib/
 ├── pom.xml
 └── src/
@@ -6,7 +7,7 @@ hello-lib/
     │   └── java/com/example/hello/App.java
     └── test/
         └── java/com/example/hello/AppTest.java
-
+```
 ```bash
 mvn archetype:generate -DgroupId=com.example.hello  -DartifactId=hello-lib  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
